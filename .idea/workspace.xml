@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ex3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ex3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/ref3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGradMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGradeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/test/http/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/enumeration/test/http/HttpStatusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/test/LottoGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/test/LottoGeneratorMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -34,9 +51,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AuthGradMain1.executor": "Run",
+    "Application.AuthGradeMain2.executor": "Run",
+    "Application.ClassGradeEx3_1.executor": "Run",
+    "Application.EnumRefMain2.executor": "Run",
+    "Application.EnumRefMain3_3.executor": "Run",
+    "Application.EnumRefMain3_4.executor": "Run",
+    "Application.HttpStatusMain.executor": "Run",
     "Application.ImmutableMain.executor": "Run",
     "Application.ImmutableMain1.executor": "Run",
     "Application.ImmutableMyDateMain.executor": "Run",
+    "Application.LottoGeneratorMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MutableMain.executor": "Run",
     "Application.RectangleMain.executor": "Run",
@@ -59,13 +84,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WrapperTest3">
-    <configuration name="TestString10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString10" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.enumeration.ref3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpStatusMain">
+    <configuration name="AuthGradMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.enumeration.test.AuthGradMain1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.enumeration.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString5" />
+    <configuration name="AuthGradeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.enumeration.test.AuthGradeMain2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.enumeration.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString6" />
+    <configuration name="EnumRefMain3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.enumeration.ref3.EnumRefMain3_3" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest2" />
+    <configuration name="EnumRefMain3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.enumeration.ref3.EnumRefMain3_4" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper.test.*" />
+          <option name="PATTERN" value="lang.enumeration.ref3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest3" />
+    <configuration name="HttpStatusMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.enumeration.test.http.HttpStatusMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper.test.*" />
+          <option name="PATTERN" value="lang.enumeration.test.http.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WrapperTest3" />
-        <item itemvalue="Application.WrapperTest2" />
-        <item itemvalue="Application.TestString10" />
-        <item itemvalue="Application.TestString6" />
-        <item itemvalue="Application.TestString5" />
+        <item itemvalue="Application.HttpStatusMain" />
+        <item itemvalue="Application.AuthGradeMain2" />
+        <item itemvalue="Application.AuthGradMain1" />
+        <item itemvalue="Application.EnumRefMain3_4" />
+        <item itemvalue="Application.EnumRefMain3_3" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="10233000" />
+      <workItem from="1737873306943" duration="20713000" />
     </task>
     <servers />
   </component>
