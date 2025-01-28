@@ -1,4 +1,4 @@
-package lang.enumeration.test;
+package enumeration.test;
 
 import java.util.Scanner;
 

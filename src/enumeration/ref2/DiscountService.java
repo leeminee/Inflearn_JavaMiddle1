@@ -1,8 +1,8 @@
-package lang.enumeration.ref3;
+package enumeration.ref2;
 
 public class DiscountService {
 
     public int discount(Grade grade, int price) {
-        return grade.discount(price);
+        return price * grade.getDiscountPercent() / 100;
     }
 }

@@ -1,4 +1,4 @@
-package lang.enumeration.ref2;
+package enumeration.ref2;
 
 public class EnumRefMain2 {
     public static void main(String[] args) {

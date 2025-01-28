@@ -1,4 +1,4 @@
-package lang.enumeration.test;
+package enumeration.test;
 
 public class AuthGradMain1 {
 

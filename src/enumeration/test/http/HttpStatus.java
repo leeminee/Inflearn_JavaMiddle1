@@ -1,4 +1,4 @@
-package lang.enumeration.test.http;
+package enumeration.test.http;
 
 public enum HttpStatus {
     OK(200, "OK"),

@@ -1,4 +1,4 @@
-package lang.enumeration.ref3;
+package enumeration.ref2;
 
 public enum Grade {
     BASIC(10), GOLD(20), DIAMOND(30);
@@ -11,9 +11,5 @@ public enum Grade {
 
     public int getDiscountPercent() {
         return discountPercent;
-    }
-
-    public int discount(int price) {
-        return price * discountPercent / 100;
     }
 }
