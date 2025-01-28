@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/MainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkClientV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkServiceV0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Application.LocalDateMain.executor": "Run",
     "Application.LottoGeneratorMain.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MainV0.executor": "Run",
     "Application.MutableMain.executor": "Run",
     "Application.OuterClass1Main.executor": "Run",
     "Application.OuterClass2Main.executor": "Run",
@@ -98,7 +100,7 @@
       <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LibraryMain">
+  <component name="RunManager" selected="Application.MainV0">
     <configuration name="AnonymousMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nested.test.AnonymousMain" />
       <module name="java-mid1" />
@@ -125,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass1Main" />
+    <configuration name="MainV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex0.MainV0" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.test.*" />
+          <option name="PATTERN" value="exception.ex0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainV0" />
         <item itemvalue="Application.LibraryMain" />
         <item itemvalue="Application.AnonymousMain" />
         <item itemvalue="Application.OuterClass3Main" />
         <item itemvalue="Application.OuterClass2Main" />
-        <item itemvalue="Application.OuterClass1Main" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +192,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="40350000" />
+      <workItem from="1737873306943" duration="42653000" />
     </task>
     <servers />
   </component>
