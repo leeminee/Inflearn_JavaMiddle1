@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0RefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/AnonymousMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/LibraryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousMain.executor": "Run",
     "Application.AuthGradMain1.executor": "Run",
     "Application.AuthGradeMain2.executor": "Run",
     "Application.CarMain.executor": "Run",
@@ -74,6 +55,7 @@
     "Application.ImmutableMain.executor": "Run",
     "Application.ImmutableMain1.executor": "Run",
     "Application.ImmutableMyDateMain.executor": "Run",
+    "Application.LibraryMain.executor": "Run",
     "Application.LocalDateMain.executor": "Run",
     "Application.LottoGeneratorMain.executor": "Run",
     "Application.Main.executor": "Run",
@@ -116,7 +98,7 @@
       <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymousMain">
+  <component name="RunManager" selected="Application.LibraryMain">
     <configuration name="AnonymousMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nested.test.AnonymousMain" />
       <module name="java-mid1" />
@@ -130,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV5" />
+    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.test.ex1.LibraryMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.anonymous.ex.*" />
+          <option name="PATTERN" value="nested.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryMain" />
         <item itemvalue="Application.AnonymousMain" />
         <item itemvalue="Application.OuterClass3Main" />
         <item itemvalue="Application.OuterClass2Main" />
         <item itemvalue="Application.OuterClass1Main" />
-        <item itemvalue="Application.Ex1RefMainV5" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="38080000" />
+      <workItem from="1737873306943" duration="40350000" />
     </task>
     <servers />
   </component>
