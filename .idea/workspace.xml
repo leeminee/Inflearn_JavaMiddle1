@@ -5,31 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/time/FormattingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/LocalDateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestAdjusters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestBetween.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestCalendarPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestLoopPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/test/TestZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex0RefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Ex1RefMainV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/anonymous/ex/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex1/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/inner/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/AnonymousMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ex3/ClassGradeEx3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ex3/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ex3/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref2/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref2/DiscountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref2/EnumRefMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref2/EnumRefMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref2/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref2/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref3/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref3/DiscountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref3/EnumRefMain3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref3/EnumRefMain3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/ref3/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ref3/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGradMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGradMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/test/AuthGradeMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGradeMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/test/http/HttpStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/test/http/HttpStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/enumeration/test/http/HttpStatusMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/test/http/HttpStatusMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,10 +58,17 @@
   "keyToString": {
     "Application.AuthGradMain1.executor": "Run",
     "Application.AuthGradeMain2.executor": "Run",
+    "Application.CarMain.executor": "Run",
     "Application.ClassGradeEx3_1.executor": "Run",
     "Application.EnumRefMain2.executor": "Run",
     "Application.EnumRefMain3_3.executor": "Run",
     "Application.EnumRefMain3_4.executor": "Run",
+    "Application.Ex0Main.executor": "Run",
+    "Application.Ex0RefMain.executor": "Run",
+    "Application.Ex1Main.executor": "Run",
+    "Application.Ex1RefMainV1.executor": "Run",
+    "Application.Ex1RefMainV4.executor": "Run",
+    "Application.Ex1RefMainV5.executor": "Run",
     "Application.FormattingMain1.executor": "Run",
     "Application.HttpStatusMain.executor": "Run",
     "Application.ImmutableMain.executor": "Run",
@@ -72,6 +78,9 @@
     "Application.LottoGeneratorMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MutableMain.executor": "Run",
+    "Application.OuterClass1Main.executor": "Run",
+    "Application.OuterClass2Main.executor": "Run",
+    "Application.OuterClass3Main.executor": "Run",
     "Application.RectangleMain.executor": "Run",
     "Application.TestAdjusters.executor": "Run",
     "Application.TestBetween.executor": "Run",
@@ -85,6 +94,7 @@
     "Application.TestZone.executor": "Run",
     "Application.WrapperTest2.executor": "Run",
     "Application.WrapperTest3.executor": "Run",
+    "Application.nested.inner.ex2.CarMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -100,16 +110,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nested.test" />
+      <recent name="nested.anonymous.ex" />
+      <recent name="nested.inner.ex2" />
       <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCalendarPrinter">
-    <configuration name="TestAdjusters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestAdjusters" />
+  <component name="RunManager" selected="Application.AnonymousMain">
+    <configuration name="AnonymousMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.test.AnonymousMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestBetween" />
+    <configuration name="Ex1RefMainV5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.anonymous.ex.Ex1RefMainV5" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.anonymous.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCalendarPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestCalendarPrinter" />
+    <configuration name="OuterClass1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass1Main" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLoopPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestLoopPlus" />
+    <configuration name="OuterClass2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass2Main" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="time.test.TestZone" />
+    <configuration name="OuterClass3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass3Main" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="time.test.*" />
+          <option name="PATTERN" value="nested.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCalendarPrinter" />
-        <item itemvalue="Application.TestZone" />
-        <item itemvalue="Application.TestAdjusters" />
-        <item itemvalue="Application.TestBetween" />
-        <item itemvalue="Application.TestLoopPlus" />
+        <item itemvalue="Application.AnonymousMain" />
+        <item itemvalue="Application.OuterClass3Main" />
+        <item itemvalue="Application.OuterClass2Main" />
+        <item itemvalue="Application.OuterClass1Main" />
+        <item itemvalue="Application.Ex1RefMainV5" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="28747000" />
+      <workItem from="1737873306943" duration="38080000" />
     </task>
     <servers />
   </component>
