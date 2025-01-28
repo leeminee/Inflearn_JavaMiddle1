@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedCatchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedThrowMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/MyCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex1/MainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkClientV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/MyUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/UncheckedCatchMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +80,7 @@
     "Application.TestString5.executor": "Run",
     "Application.TestString6.executor": "Run",
     "Application.TestZone.executor": "Run",
+    "Application.UncheckedCatchMain.executor": "Run",
     "Application.WrapperTest2.executor": "Run",
     "Application.WrapperTest3.executor": "Run",
     "Application.nested.inner.ex2.CarMain.executor": "Run",
@@ -111,7 +106,7 @@
       <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckedThrowMain">
+  <component name="RunManager" selected="Application.UncheckedThrowMain">
     <configuration name="CheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.basic.checked.CheckedCatchMain" />
       <module name="java-mid1" />
@@ -138,32 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.test.ex1.LibraryMain" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nested.test.ex1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ex0.MainV0" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.ex0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.ex1.MainV1" />
       <module name="java-mid1" />
@@ -177,13 +146,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UncheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.basic.unchecked.UncheckedCatchMain" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.basic.unchecked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.basic.unchecked.UncheckedThrowMain" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.basic.unchecked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UncheckedThrowMain" />
+        <item itemvalue="Application.UncheckedCatchMain" />
         <item itemvalue="Application.CheckedThrowMain" />
         <item itemvalue="Application.CheckedCatchMain" />
         <item itemvalue="Application.MainV1" />
-        <item itemvalue="Application.MainV0" />
-        <item itemvalue="Application.LibraryMain" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +198,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="50054000" />
+      <workItem from="1737873306943" duration="51315000" />
     </task>
     <servers />
   </component>
