@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exception/ex0/MainV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkClientV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkServiceV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/CheckedThrowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/MyCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/basic/checked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/MainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkClientV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +48,8 @@
     "Application.AuthGradMain1.executor": "Run",
     "Application.AuthGradeMain2.executor": "Run",
     "Application.CarMain.executor": "Run",
+    "Application.CheckedCatchMain.executor": "Run",
+    "Application.CheckedThrowMain.executor": "Run",
     "Application.ClassGradeEx3_1.executor": "Run",
     "Application.EnumRefMain2.executor": "Run",
     "Application.EnumRefMain3_3.executor": "Run",
@@ -61,6 +70,7 @@
     "Application.LottoGeneratorMain.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainV0.executor": "Run",
+    "Application.MainV1.executor": "Run",
     "Application.MutableMain.executor": "Run",
     "Application.OuterClass1Main.executor": "Run",
     "Application.OuterClass2Main.executor": "Run",
@@ -94,19 +104,33 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exception.ex1" />
       <recent name="nested.test" />
       <recent name="nested.anonymous.ex" />
       <recent name="nested.inner.ex2" />
       <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainV0">
-    <configuration name="AnonymousMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.test.AnonymousMain" />
+  <component name="RunManager" selected="Application.CheckedThrowMain">
+    <configuration name="CheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.basic.checked.CheckedCatchMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.test.*" />
+          <option name="PATTERN" value="exception.basic.checked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.basic.checked.CheckedThrowMain" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.basic.checked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,25 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass2Main" />
+    <configuration name="MainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex1.MainV1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nested.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OuterClass3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nested.test.OuterClass3Main" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nested.test.*" />
+          <option name="PATTERN" value="exception.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckedThrowMain" />
+        <item itemvalue="Application.CheckedCatchMain" />
+        <item itemvalue="Application.MainV1" />
         <item itemvalue="Application.MainV0" />
         <item itemvalue="Application.LibraryMain" />
-        <item itemvalue="Application.AnonymousMain" />
-        <item itemvalue="Application.OuterClass3Main" />
-        <item itemvalue="Application.OuterClass2Main" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +203,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="42653000" />
+      <workItem from="1737873306943" duration="50054000" />
     </task>
     <servers />
   </component>
