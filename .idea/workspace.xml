@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63630c88-6a36-45f7-8e7b-4538bd86d28a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/MyUncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception/basic/unchecked/UncheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/MainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientExceptionV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +68,7 @@
     "Application.Main.executor": "Run",
     "Application.MainV0.executor": "Run",
     "Application.MainV1.executor": "Run",
+    "Application.MainV2.executor": "Run",
     "Application.MutableMain.executor": "Run",
     "Application.OuterClass1Main.executor": "Run",
     "Application.OuterClass2Main.executor": "Run",
@@ -81,6 +85,7 @@
     "Application.TestString6.executor": "Run",
     "Application.TestZone.executor": "Run",
     "Application.UncheckedCatchMain.executor": "Run",
+    "Application.UncheckedThrowMain.executor": "Run",
     "Application.WrapperTest2.executor": "Run",
     "Application.WrapperTest3.executor": "Run",
     "Application.nested.inner.ex2.CarMain.executor": "Run",
@@ -99,14 +104,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exception.ex2" />
       <recent name="exception.ex1" />
       <recent name="nested.test" />
       <recent name="nested.anonymous.ex" />
       <recent name="nested.inner.ex2" />
-      <recent name="lang.enumeration.ref3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UncheckedThrowMain">
+  <component name="RunManager" selected="Application.MainV2">
     <configuration name="CheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.basic.checked.CheckedCatchMain" />
       <module name="java-mid1" />
@@ -133,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ex1.MainV1" />
+    <configuration name="MainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex2.MainV2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.ex1.*" />
+          <option name="PATTERN" value="exception.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainV2" />
         <item itemvalue="Application.UncheckedThrowMain" />
         <item itemvalue="Application.UncheckedCatchMain" />
         <item itemvalue="Application.CheckedThrowMain" />
         <item itemvalue="Application.CheckedCatchMain" />
-        <item itemvalue="Application.MainV1" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +203,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737873305897</updated>
-      <workItem from="1737873306943" duration="51315000" />
+      <workItem from="1737873306943" duration="54665000" />
     </task>
     <servers />
   </component>
